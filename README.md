@@ -1,7 +1,13 @@
 
-<h1 align="center">Hi 👋, I'm Hasan Cihad Örgün</h1>
+<h1 align="center">Hi 👋, I'm Hasan Cihad Örgün <br> 🌟 Welcome to my GitHub profile! 🌟 </h1>
 <h3 align="center">A passionate Full Stack Developer from Turkey</h3>
+<p>
+<h3>About Me:</h3>
+I'm passionate about the world of technology and always open to learning new things. 📚💻
 
+I have expertise in a variety of technologies, including Java, Python, C#, JavaScript, RESTful API, React, Angular, SQL, and Cyber Security. I have worked on various projects using these technologies and strive to contribute to open-source initiatives. 🛠️🤝
+
+I am also interested in Cyber Security and work towards ensuring the safety and security of the online world. 🔐</p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/chatrgn1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="chatrgn1" height="30" width="40" /></a>
